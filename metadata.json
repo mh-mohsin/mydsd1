@@ -1,0 +1,5 @@
+{
+  "name": "Digital Study Diary",
+  "description": "A comprehensive study management application featuring Firebase integration, analytics, PDF reporting, and smart study tracking.",
+  "requestFramePermissions": []
+}
